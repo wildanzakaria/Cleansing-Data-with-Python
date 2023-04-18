@@ -5,7 +5,7 @@ gaming industry is an interisting field to explore, it would be fun knowing who 
 Name: name of the game <br />
 Sales: sales of the game in millions <br />
 Series: series of the game <br />
-Release: release date of the game
-Genre: genre of the game
-Developer: Depelover of the game
-Publisher: publisher of the game
+Release: release date of the game <br />
+Genre: genre of the game <br />
+Developer: Depelover of the game <br />
+Publisher: publisher of the game <br />
