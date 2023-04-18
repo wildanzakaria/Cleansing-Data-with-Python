@@ -1,4 +1,4 @@
-# Read-and-cleaning-data-with-phyton
+# Read and cleaning data with phyton
 ### Context
 Gaming industry is an interisting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.
 ### Content data:
