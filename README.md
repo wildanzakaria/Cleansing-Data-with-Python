@@ -1,7 +1,7 @@
 # Read-and-cleaning-data-phyton
-### context
-gaming industry is an interisting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.
-### content data:
+### Context
+Gaming industry is an interisting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.
+### Content data:
 Name: name of the game <br />
 Sales: sales of the game in millions <br />
 Series: series of the game <br />
